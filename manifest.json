@@ -1,5 +1,8 @@
 {
     "name": "WU's App",
+    "short_name": "WU's App",
+    "description": "WU's App",
+    "start_url": "./",
     "icons": [
         {
             "src": "icon512.png",
