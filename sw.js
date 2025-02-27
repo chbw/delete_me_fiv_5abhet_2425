@@ -4,6 +4,7 @@ const filesToCache = [
     './index.html',
     './style.css',
     './sw.js',
+    './deck.js',
 ];
 
 self.addEventListener('install', (event) => {
